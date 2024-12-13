@@ -1,0 +1,19 @@
+[
+    {
+      "id": 1,
+      "name": "Basic Black Shirt",
+      "price": "$192",
+      "description": "A basic tee that is perfect for layering.",
+      "imageSrc": "https://tailwindui.com/plus/img/ecommerce-images/product-page-01-related-product-01.jpg",
+      "imageAlt": "Front of men's Basic Tee in black."
+    },
+    {
+      "id": 2,
+      "name": "Basic White Shirt",
+      "price": "$150",
+      "description": "A set of premium t-shirts.",
+      "imageSrc": "https://tailwindui.com/plus/img/ecommerce-images/product-page-01-related-product-02.jpg",
+      "imageAlt": "T-shirt pack in different colors."
+    }
+  ]
+  
